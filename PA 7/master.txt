@@ -1,0 +1,3 @@
+,ID,Name,Email,Units,Program,Level
+11,7783,"Lee,Daniel",daniel@cpts122.edu,4,CS,Sophomore
+12,9516,"Bob,Billy",billy@cpts122.edu,4,CS,Freshman

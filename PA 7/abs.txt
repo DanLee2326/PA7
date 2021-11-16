@@ -1,0 +1,12 @@
+Bob,Billy: 1, 2021-11-15
+Lee,Daniel: 0
+Mort,Kris: 1, 2021-11-15
+Willis,Bruce: 0
+Smith,Jane: 1, 2021-11-15
+Sam,Theo: 0
+Payton,Ella: 1, 2021-11-15
+James,Hannah: 0
+Art,Bruce: 1, 2021-11-15
+Leinart,Timothy: 0
+Beck,Sara: 1, 2021-11-15
+Smith,John: 0
